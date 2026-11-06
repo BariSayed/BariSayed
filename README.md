@@ -32,15 +32,19 @@ full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zs
 - **Epigenomics** — whole-genome bisulfite (WGBS) DNA-methylation meta-analysis
 - **Immunogenomics &amp; immunoinformatics** — immune gene families, vaccine design, computer-aided drug discovery
 
-## Featured Projects
+## Projects &amp; Research Repositories
 
-| Repository | Description |
-|---|---|
-| [**Omyk_Stress_MetaRNASeq**](https://github.com/BariSayed/Omyk_Stress_MetaRNASeq) | RNA-seq meta-analysis pipeline for heat- and hypoxia-stress responses in rainbow trout (*Oncorhynchus mykiss*) |
-| [**Shotgun-metagenomic-analysis-pipeline**](https://github.com/BariSayed/Shotgun-metagenomic-analysis-pipeline) | End-to-end shotgun metagenome analysis workflow |
-| [**Academic website**](https://barisayed.github.io) | Research profile, Scopus-indexed publications and CV |
+| Project | Area | Description | Status |
+|---|---|---|---|
+| [**Omyk_Stress_MetaRNASeq**](https://github.com/BariSayed/Omyk_Stress_MetaRNASeq) | Transcriptomics | Bulk RNA-seq meta-analysis of heat- &amp; hypoxia-stress responses in rainbow trout (*Oncorhynchus mykiss*) | ![](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Shotgun-metagenomic-analysis-pipeline**](https://github.com/BariSayed/Shotgun-metagenomic-analysis-pipeline) | Metagenomics | End-to-end shotgun metagenome analysis workflow (QC → taxonomy → function) | ![](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| **zebrafish-heart-scrnaseq-meta** | Single-cell | Meta-analysis of single-cell RNA-seq responses to heart injury in zebrafish | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
+| **rice-stress-methylome-meta** | Epigenomics | Harmonised WGBS DNA-methylation meta-analysis of biotic/abiotic stress in rice (*Oryza sativa*) | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
+| **mqtl_rainbow_trout** | Statistical genomics | Genome-wide meta-QTL analysis for disease resistance, growth &amp; production traits in rainbow trout | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
+| **Aeromonas-veronii-SAUAV2** | Bacterial genomics | Whole-genome characterisation of *Aeromonas veronii* from diseased tilapia in commercial aquaculture | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
+| **streptococcus-agalactiae-onehealth-pangenome** | Pangenomics / AMR | Comparative One-Health pangenome of human &amp; aquaculture *S. agalactiae*; ICEs as carriers of AMR | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
 
-*Additional pipelines (single-cell RNA-seq meta-analysis, rice methylome meta-analysis, meta-QTL and bacterial genomics) accompany manuscripts currently in review.*
+> 🔒 **Private** repositories accompany manuscripts currently in review and will be made public upon publication.
 
 ## Technical Skills
 
