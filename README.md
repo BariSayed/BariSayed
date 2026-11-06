@@ -36,7 +36,8 @@ full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zs
 
 | Project | Area | Description | Status |
 |---|---|---|---|
-| [**Omyk_Stress_MetaRNASeq**](https://github.com/BariSayed/Omyk_Stress_MetaRNASeq) | Transcriptomics | Bulk RNA-seq meta-analysis of heat- &amp; hypoxia-stress responses in rainbow trout (*Oncorhynchus mykiss*) | ![](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Omyk_Stress_MetaRNASeq**](https://github.com/BariSayed/Omyk_Stress_MetaRNASeq) | Transcriptomics | RNA-seq preprocessing &amp; meta-analysis scripts for heat/hypoxia stress in rainbow trout (*Oncorhynchus mykiss*) | ![](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**bigbiolab/Omyk_Transcriptomic_Meta**](https://github.com/bigbiolab/Omyk_Transcriptomic_Meta) | Transcriptomics | Analysis repository (with Big Bioinformatics Lab) for my published meta-analysis of heat &amp; hypoxia stress in rainbow trout — *BMC Genomics* 2025 | ![](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
 | [**Shotgun-metagenomic-analysis-pipeline**](https://github.com/BariSayed/Shotgun-metagenomic-analysis-pipeline) | Metagenomics | End-to-end shotgun metagenome analysis workflow (QC → taxonomy → function) | ![](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
 | **zebrafish-heart-scrnaseq-meta** | Single-cell | Meta-analysis of single-cell RNA-seq responses to heart injury in zebrafish | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **rice-stress-methylome-meta** | Epigenomics | Harmonised WGBS DNA-methylation meta-analysis of biotic/abiotic stress in rice (*Oryza sativa*) | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
