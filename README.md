@@ -6,6 +6,9 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=ZsaKrdQAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0074--9436-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0074-9436)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sayed-Bari-2)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-KDP--1188--2024-5E33BF?style=flat-square&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/KDP-1188-2024)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-0E7490?style=flat-square&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/3117003)
+[![Loop](https://img.shields.io/badge/Loop-Frontiers-FF8000?style=flat-square&logo=frontiers&logoColor=white)](https://loop.frontiersin.org/people/2316236/overview)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-mashequl-bari-5884972b7/)
 [![Email](https://img.shields.io/badge/Email-bari.aahm@sau.edu.bd-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:bari.aahm@sau.edu.bd)
 
