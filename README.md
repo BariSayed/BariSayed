@@ -15,11 +15,11 @@ Department of Aquatic Animal Health Management — Sher-e-Bangla Agricultural Un
 ## About
 
 I am an Assistant Professor in the Department of Aquatic Animal Health Management, Faculty of
-Fisheries and Marine Science, Sher-e-Bangla Agricultural University (SAU), Dhaka. I develop
+Fisheries and Marine Science, Sher-e-Bangla Agricultural University (SAU), Dhaka. I have experience in
 reproducible, Linux-based **omics pipelines** and apply **genomics, transcriptomics and
-metagenomics** to study health, immunity and adaptation in aquatic organisms. My work emphasises
-integrative, cross-study analysis of public sequencing data to uncover conserved molecular
-signatures and biomarkers relevant to aquaculture and aquatic animal health.
+metagenomics** to study evolution, immunity, host–microbe interactions and adaptation in aquatic
+and other organisms. My work emphasises integrative, cross-study analysis of phenotypic and
+genotypic data to uncover conserved molecular signatures and biomarkers.
 
 **20+ peer-reviewed publications** (12 Scopus / Web of Science–indexed) ·
 full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZsaKrdQAAAAJ) and [ORCID](https://orcid.org/0000-0003-0074-9436).
