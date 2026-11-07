@@ -42,7 +42,7 @@ full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zs
 | **zebrafish-heart-scrnaseq-meta** | Single-cell | Meta-analysis of single-cell RNA-seq responses to heart injury in zebrafish | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **rice-stress-methylome-meta** | Epigenomics | Harmonised WGBS DNA-methylation meta-analysis of biotic/abiotic stress in rice (*Oryza sativa*) | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **mqtl_rainbow_trout** | Statistical genomics | Genome-wide meta-QTL analysis for disease resistance, growth &amp; production traits in rainbow trout | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **Aeromonas-veronii-SAUAV2** | Bacterial genomics | Whole-genome characterisation of *Aeromonas veronii* from diseased tilapia in commercial aquaculture | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
+| **aeromonas-veronii-tilapia-wgs** | Bacterial genomics | Whole-genome characterisation of *Aeromonas veronii* from diseased tilapia in commercial aquaculture | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **streptococcus-agalactiae-onehealth-pangenome** | Pangenomics / AMR | Comparative One-Health pangenome of human &amp; aquaculture *S. agalactiae*; ICEs as carriers of AMR | ![](https://img.shields.io/badge/Private-6e7781?style=flat-square&logo=github&logoColor=white) |
 
 > 🔒 **Private** repositories accompany manuscripts currently in review and will be made public upon publication.
