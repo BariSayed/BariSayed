@@ -1,7 +1,6 @@
 # Sayed Mashequl Bari
 
-**Assistant Professor · Bioinformatics &amp; Genomics of Aquatic Organisms**
-Department of Aquatic Animal Health Management — Sher-e-Bangla Agricultural University, Dhaka, Bangladesh
+**Assistant Professor · Sher-e-Bangla Agricultural University, Dhaka, Bangladesh**
 
 [![Website](https://img.shields.io/badge/Website-barisayed.github.io-0e7490?style=flat-square&logo=googlechrome&logoColor=white)](https://barisayed.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=ZsaKrdQAAAAJ)
