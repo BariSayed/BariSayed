@@ -12,6 +12,7 @@
 [![Loop](https://img.shields.io/badge/Loop-Frontiers-FF8000?style=flat-square&logo=frontiers&logoColor=white)](https://loop.frontiersin.org/people/2316236/overview)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-mashequl-bari-5884972b7/)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MashekSyed)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/bari89.bsky.social)
 [![Email](https://img.shields.io/badge/Email-bari.aahm@sau.edu.bd-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:bari.aahm@sau.edu.bd)
 
 ---
