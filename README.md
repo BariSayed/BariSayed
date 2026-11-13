@@ -19,11 +19,11 @@
 
 ## About
 
-I'm curious about how aquatic animals cope with disease, stress and a changing environment. I use
-**genomics, transcriptomics, epigenomics and metagenomics** to explore evolution, immunity,
-host–microbe interactions and adaptation in fish and other organisms, and I especially enjoy piecing
-together evidence across many studies to find the molecular signatures and biomarkers that hold true
-from one dataset to the next.
+My research explores how aquatic animals respond to disease, stress and a changing environment.
+I apply **genomics, transcriptomics, epigenomics and metagenomics** to investigate evolution, immunity,
+host–microbe interactions and adaptation in fish and other organisms, with a particular interest in
+integrating evidence across multiple studies to identify molecular signatures and biomarkers that
+remain consistent from one dataset to the next.
 
 **20+ peer-reviewed publications** (12 Scopus / Web of Science–indexed) ·
 full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZsaKrdQAAAAJ) and [ORCID](https://orcid.org/0000-0003-0074-9436).
