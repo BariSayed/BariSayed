@@ -31,6 +31,7 @@ full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zs
 
 - **Bacterial genomics &amp; pangenomics:** bacterial genomes, pangenomes &amp; phylogenetics
 - **Genomics:** chromosome-level genome assembly, mitogenomes, population and functional genomics &amp; phylogenetics
+- **Quantitative &amp; statistical genomics:** GWAS, QTL and meta-QTL mapping, whole-exome sequencing (WES) and variant calling
 - **Transcriptomics:** bulk and single-cell RNA-seq differential expression and meta-analysis
 - **Metagenomics:** 16S rRNA amplicon and shotgun metagenomic microbiome profiling
 - **Epigenomics:** whole-genome bisulfite (WGBS) DNA-methylation meta-analysis
