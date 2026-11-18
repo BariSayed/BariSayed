@@ -29,11 +29,12 @@ full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zs
 
 ## Research Focus
 
-- **Comparative &amp; evolutionary genomics** — fish, bacterial and mitochondrial genomes; pangenomics &amp; phylogenetics
-- **Transcriptomics** — bulk and single-cell RNA-seq differential expression and meta-analysis
-- **Metagenomics** — 16S rRNA amplicon and shotgun metagenomic microbiome profiling
-- **Epigenomics** — whole-genome bisulfite (WGBS) DNA-methylation meta-analysis
-- **Immunogenomics &amp; immunoinformatics** — immune gene families, vaccine design, computer-aided drug discovery
+- **Bacterial genomics &amp; pangenomics:** bacterial genomes, pangenomes &amp; phylogenetics
+- **Genomics:** chromosome-level genome assembly, mitogenomes, population and functional genomics &amp; phylogenetics
+- **Transcriptomics:** bulk and single-cell RNA-seq differential expression and meta-analysis
+- **Metagenomics:** 16S rRNA amplicon and shotgun metagenomic microbiome profiling
+- **Epigenomics:** whole-genome bisulfite (WGBS) DNA-methylation meta-analysis
+- **Immunogenomics &amp; immunoinformatics:** immune gene families, vaccine design, computer-aided drug discovery
 
 ## Projects &amp; Research Repositories
 
