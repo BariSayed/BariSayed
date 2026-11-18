@@ -27,7 +27,7 @@ adaptation in fish and other organisms.
 ## Research Focus
 
 - **Bacterial genomics &amp; pangenomics:** bacterial genomes, pangenomes &amp; phylogenetics
-- **Genomics:** chromosome-level genome assembly, mitogenomes, population and functional genomics &amp; phylogenetics
+- **Genomics:** chromosome-level genome assembly, mitogenomes, population, functional and evolutionary genomics &amp; phylogenetics
 - **Quantitative &amp; statistical genomics:** GWAS, QTL and meta-QTL mapping, whole-exome sequencing (WES) and variant calling
 - **Transcriptomics:** bulk and single-cell RNA-seq differential expression and meta-analysis
 - **Metagenomics:** 16S rRNA amplicon and shotgun metagenomic microbiome profiling
